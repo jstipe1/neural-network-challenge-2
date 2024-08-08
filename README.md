@@ -10,11 +10,11 @@ __Purpose__: In this Challenge we display knowledge of branching in nueral netwo
 
 __Intalls__: A number of installations are needed (and provided) to run the code necessary to complete this project  
   
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
-import pandas as pd
-import numpy as np
-from tensorflow.keras.models import Model
+from sklearn.model_selection import train_test_split  
+from sklearn.preprocessing import StandardScaler  
+import pandas as pd  
+import numpy as np  
+from tensorflow.keras.models import Model  
 from tensorflow.keras import layers
 
 [Python Documentation] (https://docs.python.org/)  
