@@ -4,7 +4,7 @@ Module_19_Challenge
 __Purpose__: In this Challenge we display knowledge of branching in nueral network models looking a attrition data for a company
   
     
-&nbsp; &nbsp; __Step 1__: Preprocess the data
+&nbsp; &nbsp; __Step 1__: Preprocess the data  
 &nbsp; &nbsp; __Step 2__: CCreate, Compile, and Train the Model  
 &nbsp; &nbsp;__Step 3__: Provide a summary and answer questions regarding the model and selections
 
